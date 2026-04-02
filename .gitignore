@@ -1,0 +1,11 @@
+# Node.js 依赖
+node_modules/
+package-lock.json
+
+# VitePress 缓存和构建产物
+.vitepress/cache/
+.vitepress/dist/
+
+# 系统生成文件
+.DS_Store
+Thumbs.db
